@@ -15,6 +15,7 @@ public class SelTest {
 		WebDriver driver = new FirefoxDriver();
 
 		// And now use this to visit Google
+		// Test
 		driver.get("http://www.google.com");
 		// Alternatively the same thing can be done like this
 		// driver.navigate().to("http://www.google.com");
