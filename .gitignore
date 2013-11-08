@@ -5,6 +5,7 @@
 *.war
 *.ear
 /target/**/*.properties
+/target/**/.gitignore
 
 # Eclipse environment
 *.project
